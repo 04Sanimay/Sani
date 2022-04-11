@@ -1,6 +1,6 @@
 # Sani
 ICT
-import numpy as np
+import numpy as sp
 a = np.array([1, 2, 3])
-print(a)              
+print(a),              
 print(type(a))
